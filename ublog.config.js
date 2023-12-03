@@ -1,7 +1,7 @@
 module.exports = {
-  title: "uBlog",
+  title: "Sovereign-Traveler",
   description:
-    "A minimalist blog on nostr that allows anyone to easily create their own personal micro-blog.",
+    "For the betterment of the world, the unipolar world must end.",
   favicon:
     "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
   logo: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
