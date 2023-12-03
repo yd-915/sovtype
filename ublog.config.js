@@ -1,7 +1,7 @@
 module.exports = {
   title: "Sovereign-Traveler",
   description:
-    "For the betterment of the world, the unipolar world must end.",
+    "For the betterment of the world, the unipolar order must end.",
   favicon:
     "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
   logo: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
