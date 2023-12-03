@@ -3,8 +3,8 @@ module.exports = {
   description:
     "For the betterment of the world, the unipolar order must end.",
   favicon:
-    "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
-  logo: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
+    "https://i.ibb.co/dKjYzVP/SOV.png",
+  logo: "https://i.ibb.co/dKjYzVP/SOV.png",
   npub: "npub192hs7rha7n0ar5xq7ulyyln9vlspyhfwrr8ln0qsgl3yjk5pe6kqc8sgwm",
   themes: [
     "light",
