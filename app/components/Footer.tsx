@@ -9,7 +9,7 @@ const Footer = () => {
           href="https://github.com/nodetec/ublog"
           rel="noreferrer noopener"
         >
-          Sovereign Traveller
+          Sovereign Traveler
         </a>
       </p>
       <GitHubStars />
