@@ -12,7 +12,6 @@ const Footer = () => {
           Sovereign Traveler
         </a>
       </p>
-      <GitHubStars />
     </footer>
   );
 };
