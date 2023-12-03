@@ -5,7 +5,7 @@ module.exports = {
   favicon:
     "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
   logo: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Greek_lc_mu.svg",
-  npub: "npub1hk08saqjqxj0u98vjyeh8rd7n3828wh60wsf74nwkjexwlg22x6q4acuqq",
+  npub: "npub192hs7rha7n0ar5xq7ulyyln9vlspyhfwrr8ln0qsgl3yjk5pe6kqc8sgwm",
   themes: [
     "light",
     "dark",
@@ -53,14 +53,14 @@ module.exports = {
     },
   ],
   relays: [
-    "wss://relay.snort.social",
-    "wss://nostr-pub.wellorder.net",
-    "wss://relay.damus.io",
+    "wss://relay.plebstr.com",
+    "wss://relay.current.fyi",
+    "wss://relay.nostr.band",
     "wss://nos.lol",
-    "wss://nostr.wine",
+    "wss://nostr.bitcoiner.social",
+    "wss://offchain.pub",
     // "wss://nostr.nostrelay.org",
     // "wss://relay.nostr.ch",
-    // "wss://nostr.bitcoiner.social",
     // "wss://nostr.onsats.org",
     // "wss://nostr-relay.wlvs.space",
     // "wss://nostr.zebedee.cloud",
