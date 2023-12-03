@@ -9,7 +9,7 @@ const Footer = () => {
           href="https://github.com/nodetec/ublog"
           rel="noreferrer noopener"
         >
-          ublog
+          Sovereign Traveller
         </a>
       </p>
       <GitHubStars />
@@ -17,17 +17,5 @@ const Footer = () => {
   );
 };
 
-const GitHubStars = () => (
-  <a
-    href="https://GitHub.com/nodetec/ublog/stargazers/"
-    target="_blank"
-    rel="noreferrer noopener"
-  >
-    <img
-      src="https://img.shields.io/github/stars/nodetec/ublog.svg?style=social&label=Star&maxAge=2592000"
-      alt="GitHub stars"
-    />
-  </a>
-);
 
 export default Footer;
